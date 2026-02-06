@@ -1,0 +1,7 @@
+__manager/cache/**
+*.db
+*.log
+*.tmp
+*.DS_Store
+
+/node_modules

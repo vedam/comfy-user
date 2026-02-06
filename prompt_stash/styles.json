@@ -1,0 +1,53 @@
+{
+  "lists": {
+    "character": {
+      "wizard": "elderly wizard with long white beard, wearing robe and pointed hat, holding a staff",
+      "warrior": "massive warrior wearing plate armor, battle-scarred, determined expression, blood, dirt, sweat, mud, dust all over face and armour.\nwarrior skyrockets one arm with a sword.",
+      "elf-arrow": "mysterious female elf archer. Elf has sharp, angular features and pale skin, piercing silver eyes, braided white-blonde hair. \nweathered leather armor, layered with textures and subtle elven patterns. Elv draws a sleek, curved wooden bow with tension, the arrow tip slightly blurred from motion. Moss-covered tree trunks and soft shafts of light frame her silhouette. \n\nRich natural lighting with cool shadows and dappled light beams.\n\nHyper-detailed deep forest environment, high realism, immersive fantasy stealth atmosphere,\nmoss, ivy, rocks, shallow focus on Elfs eyes and bowstring."
+    },
+    "action": {
+      "sofa-relax": "lying relaxed on sofa"
+    },
+    "atmosphere": {
+      "italien-food": "Capture the essence and feeling of Italian home-cooking love",
+      "charming": "whimsical atmosphere that balances realism with charm"
+    },
+    "attributes": {
+      "skin-blemishes": "slight dimples, subtle acne scars, subtle freckles, skin blemishes, (wrinkles:0.85)"
+    },
+    "photo": {
+      "8k": "Photography, HRes, 8K, Outrageously detailed, masterpiece, bokeh",
+      "8k-complex": "Photography, HRes, 8K, Outrageously detailed, masterpiece, bokeh, romantic, detailed, cinematic, extremely lush, dramatic detail,  creative, epic composition, intricate, elegant, highly saturated, majestic, amazing, scenic, rich deep complex, vibrant.\n",
+      "depth-of-field": "cinematic 16:9 aspect ratio, Cinematic depth of field"
+    },
+    "illu": {
+      "yarn-knitted": "yarn art style, detailed, vibrant colors"
+    },
+    "negative": {
+      "photo": "nsfw, nude, bad anatomy, bad hands, bad eyes, missing fingers, extra fingers, ugly, deformed, disfigured, blurry, grainy, out of focus, low resolution, amateur, poorly lit, oversaturated, undersaturated, watermark, signature, text, writing, noise, artifacts, cgi, 3d, illustration",
+      "video": "nsfw, nude, vivid tones, overexposed, static, blurred details, subtitles, style, artwork, painting, frame, static, overall grayness, worst quality, low quality, JPEG compression artifacts, ugly, incomplete, extra fingers, poorly drawn hands, poorly drawn faces, deformed, disfigured, misshapen limbs, fused fingers, motionless frames, cluttered backgrounds, three legs, crowded backgrounds, walking backwards"
+    },
+    "background": {
+      "forest": "dense forest, tall trees, dappled sunlight, misty atmosphere, ground fog",
+      "sea": "vast ocean depths"
+    },
+    "motiv": {
+      "croissant-bakery": "Hyperrealistic macro photograph of a team of tiny bakers\u2014each precisely 2 inches tall\u2014collaborating on an enormous, golden-brown croissant with flaky, layered textures. \nThe bakers are engaged in dynamic, detailed actions: \none uses a miniature wooden bucket to spread rich, creamy butter between the croissant\u2019s layers, \nanother climbs a thin rope ladder to evenly pipe smooth, glossy chocolate filling onto the top, \nand a third brushes a light egg wash with a tiny pastry brush. \n\nThe scene is bathed in warm, soft kitchen lighting with cinematic depth\u2014subtle highlights on the croissant\u2019s golden crust, gentle shadows that emphasize texture, and a soft glow from overhead pendant lights. \n\nFloating flour dust particles catch the light, adding a sense of movement and realism, while tiny details like the bakers\u2019 stitched cloth aprons, smudged flour on their faces, the rough wood of the worktable, and the slight sheen of melted butter on the croissant are rendered with ultra-precision. \n\nUltra-detailed, 8K resolution, photorealistic textures, sharp focus on the bakers and croissant, shallow depth of field to blur the background slightly, rich warm color palette, lifelike proportions, and a cozy, whimsical atmosphere that balances realism with charm.",
+      "landscape-winter": "A captivating landscape photograph featuring a beautiful winter scene with trees, small bushes, hills, forest, massive snow and ice, bark, path.\n\ncaptured early in the morning, ambient light.\n\nPhotography, HRes, 8K, Outrageously detailed, masterpiece, bokeh, romantic, detailed, cinematic, extremely lush, dramatic detail, creative, epic composition, intricate, elegant, highly saturated, majestic, amazing, scenic, rich deep complex, vibrant.\n",
+      "cat-royal": "A cat with a crown lounging on a velvet throne, royal atmosphere, luxurious fabric texture, regal pose, detailed fur, ornate crown, dramatic lighting.\nPhoto, Hres, outrageous detailed, professional studio photo",
+      "cat-oskar": "cute kitty with dark black fur wearing a orange knitted shirt that says exactly \"Oskar\". lying relaxed on sofa.",
+      "woman-nordic": "A photo-realistic shot from a close-up angle about a young woman with curly brown hair wearing a knitted sweater and a skirt, sitting against a blurred blue sky with a hint of clouds. \nshort curly brown hair, subtle earrings, eyes are a bright green color, wearing a fuzzy sweater that reaches down to her ankles.\nbackground is blurry, outdoor setting with a stunning clear blue sky.\n\nlong sleeves, earrings, knitted sweater.\nslight dimples, acne scars, subtle freckles, natural skin blemishes, (wrinkles:0.45).\n\nphoto, outrageously detailed, Hres, masterpiece,\nCapture the essence of a nordic woman at the coast",
+      "woman-obese": "A (morbidly obese:0.9) middle-aged Nordic woman with short curly hair and glasses.\nfully clothed in a double-breasted, sleeveless dress paired with a knitted pullover, wearing a silver necklace and carrying a simple bag.\nslight dimples, acne scars, subtle freckles, skin blemishes, (wrinkles:0.85). woman (looking thoughtfully besides:1.2). \noutdoor environment with ambient, soft lighting, neutral modern and atmospheric background.\nsoft early morning light. hyper-realistic, emphasizing rich textures, natural color tones, detailed lighting to enhance realism and contrast.\ncomposition is grounded in photorealistic photography with a focus on depth and capturing emotional nuance.\nPhotography, HRes, 8K, Outrageously detailed, masterpiece, bokeh",
+      "woman-cooking": "A (morbidly obese:0.9) middle-aged (Italian:1.2) woman stands over a large, wooden-topped table with a gas stove, cooking pasta in a simmering pot of tomato sauce. woman (looking concentrated at pot:1.2)\n\nSteam rises from the food, slight dimples, acne scars, subtle freckles, skin blemishes, (wrinkles:0.85) that speak of a life well-spent, hands are rough but expertly handle the pasta and stir the sauce.\nchaos in the old italien kitchen, wood-burned oven, traditional Italian dishes, capers, basil line the edges of the table. Background suggests a bustling market with rows of colorful vegetables, kitchen utils .\n\nmuted color palette dominated by earthy tones \u2013 browns, greens, and reds. Capture the essence of home-cooking Italian love.",
+      "tree-ancient": "An ancient tree grows in reverse, its branches forming the base, while its roots stretch upward into the sky, intertwining into the shape of a figure sitting in the Lotus Position.\n\nThe tree\u2019s leaves flutter upward like a cascade of falling water, defying the natural order of growth.\n\nsubtle moss, ivy, roots, bark, leaves.\nphoto, surreal photography, masterpiece, outrageously detailed, Hres.\n\nCapture the essence of an abandonned mystic temple in an asien jungle with tropical humidity.\n\nPhotography, HRes, 8K, Outrageously detailed, masterpiece, bokeh",
+      "woman-flowers": "A European woman. She is immersed in a vast, endless field of blooming flowers under a perfect summer sky. Show womens upperbody but avoid to change the way she is dressed.",
+      "woman-wilderness": "woman with short curly hair wears(survival looking grunge outfit:1.1) colored in soft earth tones. outfit appears worn, (damaged:1.05) and smudgy,\nwoman appears to be on a survival mission.\nwoman is walking in a faszinating and natural left wild forest looking thoughtful slightly to left.\n(dynamic walking pose:1.2), \nwoman with (thoughtful expression:1.2), facing away, upperbody rotation to the right.\nnatural wild and charmed looking forest.\nsubtle ground fog, old trees and bushes, fern, moss, (rocks:1.4), ivy.\nblurred bushes and fern in foreground to provide outrageous and stunning depth of field.\nearly morning autumn day, mystical lighting, person catching light and shadows from above through trees.\n\nPhoto, High quality, masterpiece, highly detailed, extremely lush, dramatic detail, creative, epic composition, comprehensive color, intricate, bokeh",
+      "ship-pirate": "Pirate ship trapped in a cosmic maelstrom nebula, rendered in cosmic beach whirlpool engine, volumetric lighting, spectacular, ambient lights, light pollution, cinematic atmosphere, intricate detail.",
+      "house-mushroom": "A whimsical fantasy scene featuring a towering, ancient tree house nestled within a massive, glowing mushroom. The mushroom cap forms the roof, illuminating the surroundings with a warm, golden light. The tree\u2019s gnarled branches are intertwined with smaller mushrooms, each with glowing windows and doors, creating a multi-level dwelling. The base of the tree is surrounded by lush moss, tiny glowing flowers, and a stone pathway leading to the entrance. In the background, a misty forest with cascading waterfalls enhances the magical atmosphere, while the night sky sparkles faintly with distant stars. \n\nPhotography, HRes, 8K, Outrageously detailed, masterpiece, bokeh",
+      "sailboat": "sleek, white sailboat, 4people, gliding through calm turquoise waters under a clear blue sky, gentle breeze and sunlight reflecting on the water surface, beach, detailed textures, tropical getaway, lush greenery, sparkling water.\n\nswaying palm trees, intricate wave patterns in the water, rocks, beach, sparkling waves, boat closeup in focus, low angle.\n\nCapture the essence of a lonesome caribean bay area with a desperate holiday feeling evoking a sense of relaxation and adventure.\n\nPhotography, HRes, 8K, Outrageously detailed, masterpiece, bokeh",
+      "pikatchu-knitted": "Pikachu holds a cushion that says 'Nunchaka', white dog stands besides pikachu, yarn art style, detailed, vibrant colors",
+      "robot-fennec": "robot with massive (fennec ears:1.3), keep eyes and mouth as is"
+    }
+  },
+  "version": "1.0"
+}
