@@ -15,7 +15,7 @@
         "subgraph/a33c09a8-1734-478d-895a-b87a42caa5a0",
         "subgraph/b9e085c9-7a99-4370-a0ef-b0d7a6c6de76"
     ],
-    "Comfy.LinkRenderMode": 0,
+    "Comfy.LinkRenderMode": 1,
     "Comfy.Extension.Disabled": [
         "pysssss.Locking",
         "KJNodes.browserstatus",
