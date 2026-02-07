@@ -27,6 +27,12 @@
 | [gguf](https://github.com/city96/ComfyUI-GGUF)                                                  | [zit power-nodes](https://github.com/martin-rizzo/ComfyUI-ZImagePowerNodes) |
 | [nunchaku](https://nunchaku.tech/docs/ComfyUI-nunchaku/workflows/kontext.html)                  | [itools](https://github.com/MohammadAboulEla/ComfyUI-iTools)                |
 
+**more on zit**
+
+- [zit awesome](https://github.com/camenduru/awesome-z-image-turbo)
+- [zit prompting](https://hackmd.io/_9H5DEekRS-haFKZ3nTqyA)
+- [styles](https://z-image.me/en/styles)
+
 **installed extensions**
 
 - [outputlist aka gridplot](https://github.com/geroldmeisinger/ComfyUI-outputlists-combiner)
