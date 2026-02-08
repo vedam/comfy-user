@@ -1,0 +1,5 @@
+# Note that your text_positive will be added in this part {prompt}
+
+- name: keep everything
+  prompt: Keep the same pose, outfit, proportions, lighting, camera angle and style
+  negative_prompt: ""
