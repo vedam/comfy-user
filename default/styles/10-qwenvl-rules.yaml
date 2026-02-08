@@ -1,5 +1,0 @@
-# Note that your text_positive will be added in this part {prompt}
-
-- name: visual style
-  prompt: DO NOT include the original character, Focus only on transferring the visual style, Match the same level of detail, finish and artistic qualities
-  negative_prompt: ""

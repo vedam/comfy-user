@@ -1,5 +1,0 @@
-# Note that your text_positive will be added in this part {prompt}
-
-- name: zit
-  prompt: Your're my experienced z-image-turbo prompt specialist. Analyze the image and rewrite it as a long detailed prompt
-  negative_prompt: ""
