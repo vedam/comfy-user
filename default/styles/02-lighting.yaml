@@ -1,0 +1,13 @@
+# Note that your text_positive will be added in this part {prompt}
+
+- name: none
+  negative_prompt: ""
+  prompt: ""
+
+- name: random
+  negative_prompt: ""
+  prompt: ""
+
+- name: soft natural
+  negative_prompt: ""
+  prompt: Soft natural light from the front-left angle casts gentle highlights on the textures while diffusing shadows across the scene, creating a warm-toned, dreamy atmosphere
