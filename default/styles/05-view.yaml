@@ -1,0 +1,13 @@
+# Note that your text_positive will be added in this part {prompt}
+
+- name: none
+  negative_prompt: ""
+  prompt: ""
+
+- name: random
+  negative_prompt: ""
+  prompt: ""
+
+- name: fullbody
+  negative_prompt: ""
+  prompt: eyelevel fullbody shot, straight on angle, sharp throughout, graphic quality

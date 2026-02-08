@@ -1,0 +1,13 @@
+# Note that your text_positive will be added in this part {prompt}
+
+- name: none
+  negative_prompt: ""
+  prompt: ""
+
+- name: random
+  negative_prompt: ""
+  prompt: ""
+
+- name: minimal gray
+  negative_prompt: ""
+  prompt: character in a background with shallow depth of field, blurring the background into a smooth, minimalist light gray gradient, ethereal layer to the scene
