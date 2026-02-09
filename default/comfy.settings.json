@@ -636,7 +636,9 @@
         }
     ],
     "Comfy.VueNodes.Enabled": false,
-    "Comfy.Templates.SelectedModels": [],
+    "Comfy.Templates.SelectedModels": [
+        "Qwen-Image 2512"
+    ],
     "Comfy.Templates.SelectedRunsOn": [
         "ComfyUI"
     ],
