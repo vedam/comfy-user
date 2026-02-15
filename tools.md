@@ -12,9 +12,9 @@
 | ---------- | ---------- | --------- | ------------- | -------------- | --------- |
 | ⚠️ at work | 📶 upscale | 🧩 loader | ⚙️ controlnet | 🔨 common tool | ✨ prompt |
 
-|               |        |       |       |         |         |          |
-| ------------- | ------ | ----- | ----- | ------- | ------- | -------- |
-| 🟦 blueprints | 🟧 zit | 🟩 f1 | 🟫 f2 | 🟨 qwen | ⬜ SDXL | 🟪 Video |
+|               |        |                 |         |         |          |
+| ------------- | ------ | --------------- | ------- | ------- | -------- |
+| 🟦 blueprints | 🟧 zit | 🟩 flux.2-klein | 🟨 qwen | ⬜ SDXL | 🟪 Video |
 
 ---
 
@@ -33,7 +33,7 @@
 - [zit prompting](https://hackmd.io/_9H5DEekRS-haFKZ3nTqyA)
 - [styles](https://z-image.me/en/styles)
 
-**installed extensions**
+**common extensions**
 
 - [outputlist aka gridplot](https://github.com/geroldmeisinger/ComfyUI-outputlists-combiner)
 - [detail daemon](https://github.com/Jonseed/ComfyUI-Detail-Daemon)
@@ -49,8 +49,7 @@
 - [essentials](https://github.com/cubiq/ComfyUI_essentials)
 - [save-image](https://github.com/audioscavenger/save-image-extended-comfyui)
 - [inpaint-easy](https://github.com/CY-CHENYUE/ComfyUI-InpaintEasy)
-- [use-everywhere](https://github.com/chrisgoringe/cg-use-everywhere)
-- []()
+- [inpaint-crop-stitch](https://github.com/lquesada/ComfyUI-Inpaint-CropAndStitch?tab=readme-ov-file)
 - []()
 
 **qwen-vl requires llama-cpp-python**
