@@ -637,7 +637,7 @@
     ],
     "Comfy.VueNodes.Enabled": false,
     "Comfy.Templates.SelectedModels": [
-        "Qwen-Image 2512"
+        "Flux.2"
     ],
     "Comfy.Templates.SelectedRunsOn": [
         "ComfyUI"
@@ -658,5 +658,6 @@
     "iTools.Tabs.menuTab": true,
     "Comfy.FloatRoundingPrecision": 2,
     "Comfy.Queue.History.Expanded": false,
-    "LiteGraph.Node.TooltipDelay": 300
+    "LiteGraph.Node.TooltipDelay": 300,
+    "Comfy.RightSidePanel.IsOpen": true
 }
